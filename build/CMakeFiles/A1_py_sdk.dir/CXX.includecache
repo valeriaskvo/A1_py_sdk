@@ -316,15 +316,15 @@ stdint.h
 iostream
 -
 
-/home/valeria/pybind_examples/A1_py.cpp
+/home/valeria/A1_py_sdk/A1_py.cpp
 pybind11/pybind11.h
-/home/valeria/pybind_examples/pybind11/pybind11.h
+/home/valeria/A1_py_sdk/pybind11/pybind11.h
 pybind11/stl.h
-/home/valeria/pybind_examples/pybind11/stl.h
+/home/valeria/A1_py_sdk/pybind11/stl.h
 vector
 -
 serialPort/SerialPort.h
-/home/valeria/pybind_examples/serialPort/SerialPort.h
+/home/valeria/A1_py_sdk/serialPort/SerialPort.h
 cmath
 -
 

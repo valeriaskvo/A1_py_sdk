@@ -23,7 +23,7 @@ CMakeFiles/A1_py_sdk.dir/A1_py.cpp.o
  ../include/serialPort/include/errorClass.h
  ../include/unitreeMotor/include/motor_msg.h
  ../include/unitreeMotor/unitreeMotor.h
- /home/valeria/pybind_examples/A1_py.cpp
+ /home/valeria/A1_py_sdk/A1_py.cpp
  /usr/include/python3.6m/Python.h
  /usr/include/python3.6m/abstract.h
  /usr/include/python3.6m/bltinmodule.h

@@ -1,4 +1,4 @@
-# Install script for directory: /home/valeria/pybind_examples/pybind11
+# Install script for directory: /home/valeria/A1_py_sdk/pybind11
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

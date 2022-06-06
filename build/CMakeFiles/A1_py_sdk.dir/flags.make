@@ -6,5 +6,5 @@ CXX_FLAGS =  -O3 -march=native -Wall -fPIC -fvisibility=hidden   -flto -fno-fat-
 
 CXX_DEFINES = -DA1_py_sdk_EXPORTS
 
-CXX_INCLUDES = -I/usr/local/include -I/home/valeria/pybind_examples/include -isystem /home/valeria/pybind_examples/pybind11/include -isystem /usr/include/python3.6m 
+CXX_INCLUDES = -I/usr/local/include -I/home/valeria/A1_py_sdk/include -isystem /home/valeria/A1_py_sdk/pybind11/include -isystem /usr/include/python3.6m 
 

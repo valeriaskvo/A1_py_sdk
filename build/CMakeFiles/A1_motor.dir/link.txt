@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC  -O3 -march=native -Wall  -shared  -o A1_motor.cpython-36m-x86_64-linux-gnu.so CMakeFiles/A1_motor.dir/A1_py.cpp.o  -L/home/valeria/pybind_examples/lib -Wl,-rpath,/home/valeria/pybind_examples/lib -lunitreeMotorSDK_Linux64 -flto 

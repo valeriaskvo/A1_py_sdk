@@ -49,7 +49,7 @@ class A1_motor(object):
         self.serial_port.set_pd(pd["kp"], pd["kd"])
 
     def set_q(self, q):
-        self.resp = self.serial_port.set_position(self.id, q * self.transmission_ratio)
+        self.resp = self.serial_port.set_position(self.id, q * self.transmission_ratio + self.pos_0)
         self.unpack_response()
 
     def set_dq(self, dq):
@@ -58,7 +58,7 @@ class A1_motor(object):
 
     def set_q_and_dq(self, q, dq):
         self.resp = self.serial_port.set_position_and_velocity( self.id, 
-                                                                q * self.transmission_ratio,
+                                                                q * self.transmission_ratio + self.pos_0,
                                                                 dq * self.transmission_ratio)
         self.unpack_response()
 

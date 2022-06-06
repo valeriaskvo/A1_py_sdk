@@ -1,0 +1,5 @@
+/home/valeria/pybind_examples/build/CMakeFiles/rebuild_cache.dir
+/home/valeria/pybind_examples/build/CMakeFiles/A1_py_sdk.dir
+/home/valeria/pybind_examples/build/CMakeFiles/edit_cache.dir
+/home/valeria/pybind_examples/build/pybind11/CMakeFiles/rebuild_cache.dir
+/home/valeria/pybind_examples/build/pybind11/CMakeFiles/edit_cache.dir
